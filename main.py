@@ -8,7 +8,6 @@ from Numbers.num7 import *
 
 
 # Main
-
 while True:
     password1 = findFirst1()
     password2 = findFirst2()
@@ -16,9 +15,6 @@ while True:
     password4 = findFirst4()
     password5 = findFirst5()
     password6 = findFirst6()
-    passworde = password1 + password2
-    password2e = password3 + password4
-    finalpass = passworde + password2e
-    print(finalpass)
+    print(password1, password2, password3, password4, password5, password6)
 
 
