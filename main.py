@@ -15,6 +15,6 @@ while True:
     password4 = findFirst4()
     password5 = findFirst5()
     password6 = findFirst6()
-    print(password1, password2, password3, password4, password5, password6)
+    print(password1, password2, password3, password4, password5, password6, password1, password2, password3, password4, password5, password6)
 
 
