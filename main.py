@@ -1,6 +1,7 @@
 #Imports
 from Sandwicher.squisher import *
+import PySimpleGUI as sg
 
 #Body
-getPass()
+sg.Window(title="Password", layout=[[]], margins=(500, 500)).read()
 
