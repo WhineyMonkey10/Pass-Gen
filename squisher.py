@@ -1,4 +1,6 @@
 # Imports
+import os
+import PySimpleGUI as sg
 from Numbers.num2 import *
 from Numbers.num3 import *
 from Numbers.num4 import *
@@ -10,8 +12,7 @@ from Characters.char3 import *
 from Characters.char4 import *
 from Characters.char5 import *
 from Characters.char6 import *
-import PySimpleGUI as sg
-import os
+
 
 
 # Function
